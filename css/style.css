@@ -6,8 +6,13 @@
     display: block;
     margin: auto;
     max-width: 100%;
+}
 
-
+#title {
+    color: white;
+    background-color: #680747;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 
