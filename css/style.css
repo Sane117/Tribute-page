@@ -18,8 +18,6 @@
 
 #img-div {
     border: 1px solid grey;
-    padding-top: 14px;
-    
 }
 
 #img-caption {
@@ -28,6 +26,14 @@
     margin: 0% auto;
     background-color: #680747;
     color: white;
+}
+
+#tribute-info {
+    margin: 1em 10px;
+}
+
+#title2 {
+    clear: left
 }
 
 
