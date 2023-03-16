@@ -2,6 +2,14 @@
     text-align: center;
 }
 
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+
+
+}
+
 
 
 
